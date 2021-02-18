@@ -1,4 +1,4 @@
-_**Notice**: Development on this repo is on pause until we finish our v3 rearchitecture. Please see https://github.com/storj/storj for ongoing v3 development._
+_**Notice**: Development on this repo is on pause until we finish our v3 rearchitecture. Please see https://github.com/czarcoin/czarcoin for ongoing v3 development._
 
 Czarcoin Share Daemon
 ==================
